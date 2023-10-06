@@ -6,7 +6,7 @@ function toggleAmounts(){
     document.getElementById("Milk").classList.toggle("hide");
     document.getElementById("Butter").classList.toggle("hide");
     document.getElementById("Egg").classList.toggle("hide");
-    document.getElementById("VanillaExtract").classList.toggle("hide");
+    //document.getElementById("VanillaExtract").classList.toggle("hide");
     document.getElementById("ChocolateChips").classList.toggle("hide");
 }
 
